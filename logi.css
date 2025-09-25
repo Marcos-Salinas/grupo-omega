@@ -1,0 +1,18 @@
+form{
+    text-align: center;
+    padding: 350px;
+}
+body{
+    background: linear-gradient(to right, rgb(165, 142, 147) , rgb(0, 0, 0));
+}
+form label{
+    color: white;
+}
+.inf{
+    text-align: center;
+    color: white;
+}
+form input{
+    height: 25px;
+}
+

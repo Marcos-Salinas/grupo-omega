@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(to left, rgb(173, 139, 139),rgb(0, 0, 0));
+}
+
+a{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: none;
+    text-align: center
+
+}
+.salida{
+    text-align: left;
+}
+.gif{
+    text-align: center;
+}

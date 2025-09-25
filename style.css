@@ -1,0 +1,42 @@
+
+table {
+    width: 100%;             
+    border-collapse: collapse;
+}
+td {
+    padding: 20px;
+    text-align: center;
+}
+.certificates {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px; 
+  margin-top: 20px;
+}
+
+.certificates img {
+  width: 100px;
+  height: auto;
+}
+.data 
+table th,
+table td {
+  font-weight: normal;
+}
+.Experiencia table th {
+  font-weight: normal;
+}
+.face {
+  text-align: center;
+}
+body{
+  background: linear-gradient(to right, rgb(240, 229, 229), rgb(209, 198, 223));
+}
+.salida{
+  text-align: right;
+  
+}
+.salida a {
+   text-decoration: none;
+}
